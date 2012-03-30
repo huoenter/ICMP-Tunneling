@@ -1,0 +1,7 @@
+Mon Mar 26 11:41:22 2012:Redirecting: localhost: 12345 -> chenhuo.org:12345
+Mon Mar 26 11:43:13 2012:1 pipes now active
+Mon Mar 26 11:43:13 2012:2 pipes now active
+Mon Mar 26 11:43:13 2012:<PipeThread(Thread-3, started 4336926720)> terminateing
+Mon Mar 26 11:43:13 2012:3 pipes still active
+Mon Mar 26 11:45:47 2012:<PipeThread(Thread-2, started 4332720128)> terminateing
+Mon Mar 26 11:45:47 2012:4 pipes still active
